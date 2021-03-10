@@ -1,9 +1,9 @@
 {
   "title": "Lucy And The Lens Test",
   "url": "https://musing-curran-d5aa7e.netlify.app",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "description": "Lucy And The Lens Test Site.",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "Lucy And The Lens Test Site.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://musing-curran-d5aa7e.netlify.app"
