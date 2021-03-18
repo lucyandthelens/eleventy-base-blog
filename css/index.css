@@ -37,6 +37,6 @@ header img{
 
   @media screen and (max-width: 600px) {
     main,aside {
-      background-color: olive; }
+      background-color: olive; 
       width: 100%; }
-    
+  }
